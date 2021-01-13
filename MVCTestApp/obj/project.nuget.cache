@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "K0lkVUg6tNdJXyv+r80FsP/LwpdvIwXRqY3uSyHh8szEjjZw8UGbuaepX3rpmyZj7WbtrXuIGsLLfN7U+wn2AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guuon_000\\source\\repos\\MVCTestApp\\MVCTestApp\\MVCTestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guuon_000\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\guuon_000\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

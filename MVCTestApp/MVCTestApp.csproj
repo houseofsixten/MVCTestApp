@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Images\angelina.jpg" />
+    <None Include="wwwroot\Images\breeze.jpg" />
+    <None Include="wwwroot\Images\chiave.jpg" />
+    <None Include="wwwroot\Images\cutter.jpg" />
+    <None Include="wwwroot\Images\dur-nar.jpg" />
+    <None Include="wwwroot\Images\franka.jpg" />
+    <None Include="wwwroot\Images\frostleaf.jpg" />
+    <None Include="wwwroot\Images\myrrh.jpg" />
+    <None Include="wwwroot\Images\perfumer.jpg" />
+    <None Include="wwwroot\Images\shamare.jpg" />
+    <None Include="wwwroot\Images\steward.jpg" />
+    <None Include="wwwroot\Images\sussurro.jpg" />
+    <None Include="wwwroot\Images\suzuran.jpg" />
+    <None Include="wwwroot\Images\vermeil.jpg" />
+  </ItemGroup>
+
+</Project>
